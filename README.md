@@ -78,7 +78,7 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 
 Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Maps & Line graph for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
 
-[]()<br />
+[Cost Per Meal 2016-2018 Line graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
 []()<br />
 []()<br />
 []()<br />
