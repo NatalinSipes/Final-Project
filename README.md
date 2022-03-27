@@ -57,6 +57,7 @@ Exploratory analyses included visualization and standardization of audio feature
 #### Exploratory Analysis in RStudio and Python: 
 #### State projections & Heatmaps in Python by Ivette, RPP’s & Unemployement in Python/RStudio done by Nicole, Natalin done in Rstudio that week
 
+[Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/0ece120f9569e0492de3669537694953df4cb7e9/Phase%203%20Exploratory%20Analysis/Week%203-%20State_Data_Multiple_Years.xlsx%20%20Exploratory%20Analysis.ipynb)<br />
 [Exploratory Analysis Notebook]()
 
 
