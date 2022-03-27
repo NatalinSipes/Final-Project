@@ -70,6 +70,7 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 #### Data Analysis in RStudio and Python: (Dependent t-tests, histograms for 300 set)
 
 [Data Analysis in Google Sheets](https://github.com/NatalinSipes/Final-Project/blob/328ce7ea4ad843cdb557867b24095c40a74534d0/Phase%203%20Exploratory%20Analysis/AnnualStateUI_DepTtest.xlsx)<br />
+[Data Analysis in RStuido](https://github.com/NatalinSipes/Final-Project/blob/7acd5628f51bd80650a360efbfb7a370986a64f8/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR.R)<br />
 [Data Analysis in RStuido]()<br />
 
 
