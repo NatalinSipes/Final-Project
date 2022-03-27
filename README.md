@@ -58,13 +58,18 @@ Exploratory analyses included visualization and standardization of audio feature
 #### State projections & Heatmaps in Python by Ivette, RPP’s & Unemployement in Python/RStudio done by Nicole, Natalin done in Rstudio that week
 
 [Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/0ece120f9569e0492de3669537694953df4cb7e9/Phase%203%20Exploratory%20Analysis/Week%203-%20State_Data_Multiple_Years.xlsx%20%20Exploratory%20Analysis.ipynb)<br />
-[Exploratory Analysis Notebook]()<br />
+[Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/58051b89b29e5a9760482b525ca1a8d67b00e0f3/Phase%203%20Exploratory%20Analysis/Unemployment%20Rates%20of%20States%20ranging%202017-2018%20&%202020-2021%20and%20Ratio%20of%20Income%20Poverty.ipynb)<br />
 [Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/1e3f06e8864d61cc6cd30aee8c981021dc112d4d/Phase%203%20Exploratory%20Analysis/StateUI_explanalysis.ipynb)<br />
 [Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/47833b7e75e912076ac51904303d16c1f6620126/Phase%203%20Exploratory%20Analysis/RPP_explanalysis.ipynb)<br />
 
+## Phase 4: Data Analysis
+#### (Completed March 13, 2022)
 
+Dependent t-tests and histograms were used to analyze the variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel and Google Sheets. Once the spreadsheets had been created, we imported our data into RStudio and Python for analysis. We also continued to work with datasets and notebooks which analyzed regional price parities and state unemployment rates.
 
+#### Data Analysis in RStudio and Python: (Dependent t-tests, histograms for 300 set)
 
+[Data Analysis in MS Excel & Google Sheets]()<br />
 
 
 
