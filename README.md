@@ -59,6 +59,7 @@ Exploratory analyses included visualization and standardization of audio feature
 
 [Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/0ece120f9569e0492de3669537694953df4cb7e9/Phase%203%20Exploratory%20Analysis/Week%203-%20State_Data_Multiple_Years.xlsx%20%20Exploratory%20Analysis.ipynb)<br />
 [Exploratory Analysis Notebook]()<br />
+[Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/1e3f06e8864d61cc6cd30aee8c981021dc112d4d/Phase%203%20Exploratory%20Analysis/StateUI_explanalysis.ipynb)<br />
 [Exploratory Analysis Notebook](https://github.com/NatalinSipes/Final-Project/blob/47833b7e75e912076ac51904303d16c1f6620126/Phase%203%20Exploratory%20Analysis/RPP_explanalysis.ipynb)<br />
 
 
