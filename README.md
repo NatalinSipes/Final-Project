@@ -124,7 +124,7 @@ Visualizations were created in Python, Tableau, and RStudio for analysis. Among 
 [2018 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/f5eaeb099dd5ab3c1abfe0cfe804f679aa96e409/Phase%205%20Data%20Visualization/2018FIinJN.ipynb)<br />
 [2019 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/05dc01fa529fc7639dea5ce8c427811002e3f750/Phase%205%20Data%20Visualization/2019FIinJN.ipynb)<br />
 
-#### Feeding America, Mapping the Meal Gap: Cost Per Meal
+#### Feeding America, Map the Meal Gap: Cost Per Meal
 [Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
 [Cost Per Meal 2016-2018 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
 [Cost Per Meal 2009-2019 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2009-2019CostPerMeal/CostPerMealin2009-2019?publish=yes)<br />
