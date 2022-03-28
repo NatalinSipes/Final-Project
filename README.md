@@ -29,23 +29,31 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 [2019-2021](https://github.com/NatalinSipes/Final-Project/blob/e2eb9cb3fe1309fb3f19ddcfc790248cc7e38fcb/Phase%201%20Dataset%20Collection/Feeding%20America%20Data/Map%20the%20Meal%20Gap%20Data_FeedingAmerica/MMG2021_2019Data_ToShare.xlsx)<br />
 [Map the Meal Gap Overview](https://github.com/NatalinSipes/Final-Project/blob/e2eb9cb3fe1309fb3f19ddcfc790248cc7e38fcb/Phase%201%20Dataset%20Collection/Feeding%20America%20Data/Map%20the%20Meal%20Gap%20Data_FeedingAmerica/Map%20the%20Meal%20Gap%20Overview%20and%20FAQ%2010.2020.pdf)<br />
 
+#### U.S. Census Bureau
+[Percent of People by Ratio of Income to Poverty Level: 1970 to 2020]()<br />
 [U.S. Census Bureau]()<br />
-[U.S.Department of Agriculture-Economic Research Service (USDA-ERS)]()<br />
+[U.S. Census Bureau]()<br />
+[U.S. Census Bureau]()<br />
+[U.S. Census Bureau]()<br />
+[U.S. Census Bureau]()<br />
+[U.S. Census Bureau]()<br />
+#### U.S. Department of Agriculture - Economic Research Service (USDA-ERS)
+[U.S.Department of Agriculture-Economic Research Service (USDA-ERS)](https://github.com/NatalinSipes/Final-Project/blob/f8811e5b137aa74c80f1eddd5a1b09eefdb5c1b1/Phase%201%20Dataset%20Collection/Percent%20by%20Ratio%20of%20Income%20to%20Poverty,%201970-2020%20.xlsx)<br />
 [Bureau of Economic Analysis (BEA)]()<br />
 #### Bureau of Labor Statistics (BLS)
-[State Unemployment 2009)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2009.pdf)<br />
-[State Unemployment 2010)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2010.pdf)<br />
-[State Unemployment 2011)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2011.pdf)<br />
-[State Unemployment 2012)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2012.pdf)<br />
-[State Unemployment 2013)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2013.pdf)<br />
-[State Unemployment 2014)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2014.pdf)<br />
-[State Unemployment 2015)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2015.pdf)<br />
-[State Unemployment 2016)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/StateUnemploymentRates2016.pdf)<br />
-[State Unemployment 2017)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/StateUnemploymentRates2017.pdf)<br />
-[State Unemployment 2018)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State-UI-2018_19.pdf)<br />
-[State Unemployment 2019)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State-UI-2018_19.pdf)<br />
-[State Unemployment 2020)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
-[State Unemployment 2021)](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
+[State Unemployment 2009](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2009.pdf)<br />
+[State Unemployment 2010](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2010.pdf)<br />
+[State Unemployment 2011](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2011.pdf)<br />
+[State Unemployment 2012](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2012.pdf)<br />
+[State Unemployment 2013](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2013.pdf)<br />
+[State Unemployment 2014](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2014.pdf)<br />
+[State Unemployment 2015](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2015.pdf)<br />
+[State Unemployment 2016](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/StateUnemploymentRates2016.pdf)<br />
+[State Unemployment 2017](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/StateUnemploymentRates2017.pdf)<br />
+[State Unemployment 2018](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State-UI-2018_19.pdf)<br />
+[State Unemployment 2019](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State-UI-2018_19.pdf)<br />
+[State Unemployment 2020](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
+[State Unemployment 2021](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
 
 
 
