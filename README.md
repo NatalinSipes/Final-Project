@@ -14,7 +14,8 @@ A collaborative project by A. Nicole Mosley, Ivette Sierra, and Natalin Williams
 The datasets were collected and wrangled via Microsoft Excel, RStudio, and Python from Feeding America, the U.S. Census Bureau, the U.S. Department of Agriculture-Economic Research Service (USDA-ERS), the Bureau of Economic Analysis (BEA), and the Bureau of Labor Statistics (BLS) 
 
 ### Datasets from Feeding America, U.S. Census Bureau, USDA-ERS, BEA, BLS:
-[Feeding America]()<br />
+
+[Feeding America : 2009-2011](https://github.com/NatalinSipes/Final-Project/blob/d8b2e9243020d2bd0936ccf0f4426f74cd3a6a81/Phase%201%20Dataset%20Collection/Feeding%20America%20Data/Map%20the%20Meal%20Gap%20Data_FeedingAmerica/MMG2011_2009Data_ToShare.xlsx)<br />
 [U.S. Census Bureau]()<br />
 [U.S.Department of Agriculture-Economic Research Service (USDA-ERS)]()<br />
 [Bureau of Economic Analysis (BEA)]()<br />
