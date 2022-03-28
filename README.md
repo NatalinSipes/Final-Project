@@ -83,7 +83,7 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 [RPP All](https://github.com/NatalinSipes/Final-Project/blob/3857952d38ff53994d1898b8aa19e77cbd309bfb/Phase%203%20Exploratory%20Analysis/RPPall_py.xlsx)<br />
 [RPP Goods](https://github.com/NatalinSipes/Final-Project/blob/40e777b518a3978b5c995efccaed0dd692e65268/Phase%203%20Exploratory%20Analysis/RPPgoods_py.xlsx)<br />
 [RPP Housing](https://github.com/NatalinSipes/Final-Project/blob/a258409c4e8ef8f71b715a0972acfcc5476bb69a/Phase%203%20Exploratory%20Analysis/RPPhousing_py.xlsx)<br />
-[]()<br />
+[RPP Utilities](https://github.com/NatalinSipes/Final-Project/blob/520c9ec24e1159e984988d3e79729fe5f710e9e3/Phase%203%20Exploratory%20Analysis/RPPutilities_py.xlsx)<br />
 []()<br />
 
 # Phase 3: Exploratory Analysis
