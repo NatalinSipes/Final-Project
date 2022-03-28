@@ -30,16 +30,16 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 [Map the Meal Gap Overview](https://github.com/NatalinSipes/Final-Project/blob/e2eb9cb3fe1309fb3f19ddcfc790248cc7e38fcb/Phase%201%20Dataset%20Collection/Feeding%20America%20Data/Map%20the%20Meal%20Gap%20Data_FeedingAmerica/Map%20the%20Meal%20Gap%20Overview%20and%20FAQ%2010.2020.pdf)<br />
 
 #### U.S. Census Bureau
-[Percent of People by Ratio of Income to Poverty Level: 1970 to 2020]()<br />
-[U.S. Census Bureau]()<br />
-[U.S. Census Bureau]()<br />
-[U.S. Census Bureau]()<br />
-[U.S. Census Bureau]()<br />
-[U.S. Census Bureau]()<br />
-[U.S. Census Bureau]()<br />
+[Percent of People by Ratio of Income to Poverty Level: 1970 to 2020](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%201%20Dataset%20Collection/Percent%20by%20Ratio%20of%20Income%20to%20Poverty,%201970-2020%20.xlsx)<br />
+
 #### U.S. Department of Agriculture - Economic Research Service (USDA-ERS)
-[U.S.Department of Agriculture-Economic Research Service (USDA-ERS)](https://github.com/NatalinSipes/Final-Project/blob/f8811e5b137aa74c80f1eddd5a1b09eefdb5c1b1/Phase%201%20Dataset%20Collection/Percent%20by%20Ratio%20of%20Income%20to%20Poverty,%201970-2020%20.xlsx)<br />
-[Bureau of Economic Analysis (BEA)]()<br />
+[Trends in prevalence rates of food insecurity and very low food security in U.S. households, 1995-2020](Trends in prevalence rates of food insecurity and very low food security in U.S. households, 1995-2020)<br />
+[Percentage of households reporting indicators of adult food insecurity, by food security status, 2020](https://github.com/NatalinSipes/Final-Project/blob/482c777f33fc0e21769e473fdacbdc0abda6629c/Phase%201%20Dataset%20Collection/Perc.%20of%20households%20reporting%20indicators%20of%20adult%20FI,%20by%20food%20security%20status,%202020.xlsx)<br />
+[Prevalence of very low food security by selected household characteristics, 2020](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%201%20Dataset%20Collection/Prevalence%20of%20Very%20Low%20FI%20by%20selected%20household%20characteristics,%202020.xlsx)<br />
+
+#### Bureau of Economic Analysis (BEA)
+[Regional Price Parities: 2008-2020](https://github.com/NatalinSipes/Final-Project/blob/2692c71008e07da8e59ff86ae895cd1b85217e84/Phase%201%20Dataset%20Collection/Original%20RPPs.xlsx)<br />
+
 #### Bureau of Labor Statistics (BLS)
 [State Unemployment 2009](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2009.pdf)<br />
 [State Unemployment 2010](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/STATE-UI-RATES-2010.pdf)<br />
@@ -54,19 +54,6 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 [State Unemployment 2019](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State-UI-2018_19.pdf)<br />
 [State Unemployment 2020](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
 [State Unemployment 2021](https://github.com/NatalinSipes/Final-Project/blob/47fefebcaa3daa20549fec0b7fc8fc5eaf5d21de/Phase%201%20Dataset%20Collection/Unemployment/State%20UI%202020_21.pdf)<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
