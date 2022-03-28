@@ -62,6 +62,25 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 
 
 
+
+
+
+
+
+
+
+
+# Phase 2: Data Wrangling, Cleaning, and Recoding
+### (Completed February 27, 2022)
+
+Data was cleaned and recoded for analysis using RStudio and Python.
+
+#### Data Wrangling and Cleaning: (RPP’s, State Data all years, Unemployment, and others)
+[]()<br />
+[]()<br />
+[]()<br />
+[]()<br />
+
 #### Included variables:
 -	Population percentage below poverty 
 -	Cost per meal and regional price parities
@@ -75,17 +94,6 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 []()<br />
 []()<br />
 []()<br />
-[]()<br />
-[]()<br />
-[]()<br />
-[]()<br />
-
-# Phase 2: Data Wrangling, Cleaning, and Recoding
-### (Completed February 27, 2022)
-
-Data was cleaned and recoded for analysis using RStudio and Python.
-
-#### Data Wrangling and Cleaning: (RPP’s, State Data all years, Unemployment, and others)
 []()<br />
 []()<br />
 []()<br />
