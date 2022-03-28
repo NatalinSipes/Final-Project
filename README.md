@@ -104,9 +104,9 @@ Exploratory analyses included visualization and standardization of audio feature
 # Phase 4: Data Analysis
 #### (Completed March 13, 2022)
 
-Dependent t-tests and histograms were used to analyze the variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel and Google Sheets. Once the spreadsheets had been created, we imported our data into RStudio and Python for analysis. We also continued to work with datasets and notebooks which analyzed regional price parities and state unemployment rates.
+Dependent t-tests and histograms were used to analyze the variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported our data into RStudio for analysis. We also continued to work with datasets and notebooks which analyzed regional price parities and state unemployment rates.
 
-#### Data Analysis in RStudio and Python: (Dependent t-tests, histograms for 300 set)
+#### Data Analysis in RStudio and Google Sheets
 
 [Data Analysis in Google Sheets](https://github.com/NatalinSipes/Final-Project/blob/328ce7ea4ad843cdb557867b24095c40a74534d0/Phase%203%20Exploratory%20Analysis/AnnualStateUI_DepTtest.xlsx)<br />
 [Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/7acd5628f51bd80650a360efbfb7a370986a64f8/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR.R)<br />
@@ -115,7 +115,7 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 # Phase 5: Data Visualization
 #### (Completed March 20, 2022)
 
-Visualizations were created in Python, Tableau, and RStudio for analyses. Among the many visuals provided in this Github, several highlighted examples are listed below.  (Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
+Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.  (Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
 
 #### Correlation Heat Maps 
 
