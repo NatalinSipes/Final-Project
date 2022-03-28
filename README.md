@@ -90,4 +90,4 @@ Visualizations were created in Python, Tableau, and RStudio for analyses.(Natali
 Project was presented via Zoom to Woz U faculty and students for internal review on March 25, 2022. <br /><br />
 
 View the project presentation slides on Google Docs: <br />
-[Food Insecurity in the United States of America](https://docs.google.com/presentation/d/1BAu4-_IdsELgShPoBfwd7xDo72QNbcwk_3Y5eWOzUB0/edit#slide=id.g1f88252dc4_0_249)
+[Food Insecurity in the United States of America](https://github.com/NatalinSipes/Final-Project/blob/917b8b1b3093fae250a59f186e793a11db7493c7/Phase%206%20Project%20Presentation/Food%20Insecurity%20Final%20Presentation%20.pdf)
