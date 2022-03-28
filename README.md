@@ -143,6 +143,7 @@ Visualizations were created in Python, Tableau, and RStudio for analyses.(Natali
 #### Unemployment 
 Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016)<br />
 
+
 # Phase 6: Presentation, Food Insecurity in the United States of America
 #### (Presented March 25, 2022)
 
