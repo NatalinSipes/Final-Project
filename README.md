@@ -19,7 +19,6 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 [U.S.Department of Agriculture-Economic Research Service (USDA-ERS)]()<br />
 [Bureau of Economic Analysis (BEA)]()<br />
 [Bureau of Labor Statistics (BLS)]()<br />
-[]
 
 #### Included variables:
 -	Population percentage below poverty 
