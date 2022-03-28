@@ -116,13 +116,32 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 # Phase 5: Data Visualization
 #### (Completed March 20, 2022)
 
-Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016)<br />
+Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
 
-[Cost Per Meal 2013-2015 Line graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
-[Cost Per Meal 2016-2018 Line graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
-[Cost Per Meal 2009-2019 Line graph](https://public.tableau.com/app/profile/ivette8594/viz/2009-2019CostPerMeal/CostPerMealin2009-2019?publish=yes)<br />
+#### Feeding America, Mapping the Meal Gap: Cost Per Meal
+[Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
+[Cost Per Meal 2016-2018 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
+[Cost Per Meal 2009-2019 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2009-2019CostPerMeal/CostPerMealin2009-2019?publish=yes)<br />
+#### Food Insecurity 
 []()<br />
 []()<br />
+#### Inflation
+[]()<br />
+[]()<br />
+#### Poverty
+[]()<br />
+[]()<br />
+#### Productivity
+[]()<br />
+[]()<br />
+#### Regional Price Parities
+[]()<br />
+[]()<br />
+#### Tableau and Infographics
+[]()<br />
+[]()<br />
+#### Unemployment 
+Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016)<br />
 
 # Phase 6: Presentation, Food Insecurity in the United States of America
 #### (Presented March 25, 2022)
