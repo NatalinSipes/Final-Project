@@ -2,16 +2,16 @@
 
 ![Hunts Point inside one of the Warehouses](https://user-images.githubusercontent.com/90985349/160289375-983f6c1e-2a18-43f7-9c3e-af03639067cb.jpg)
 
-Analysis of food insecurity statistics for the United States of America from 2010-2021.
+An analysis of food insecurity statistics for the United States of America from 2010-2021.
 
-For completion of the Final Project requirement of the Entity Academy, Southern Career’s Institute, and Woz-U Data Science curriculum.
+For completion of the Final Project requirement of the Entity Academy, Southern Careers Institute, and Woz-U Data Science curriculum.
 
 A collaborative project by A. Nicole Mosley, Ivette Sierra, and Natalin Williams Sipes
 
 # Phase 1: Dataset Collection 
 ### (Completed February 20, 2021)
 
-The datasets were collected and wrangled via Microsoft Excel, RStudio, and Python from Feeding America, the U.S. Census Bureau, the U.S. Department of Agriculture-Economic Research Service (USDA-ERS), the Bureau of Economic Analysis (BEA), and the Bureau of Labor Statistics (BLS) 
+The datasets were collected from various sources including Feeding America, the U.S. Census Bureau, the U.S. Department of Agriculture-Economic Research Service (USDA-ERS), the Bureau of Economic Analysis (BEA), and the Bureau of Labor Statistics (BLS) and wrangled via programs such as Microsoft Excel, RStudio, and Python.
 
 ### Datasets from Feeding America, U.S. Census Bureau, USDA-ERS, BEA, BLS:
 
