@@ -81,7 +81,7 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 [State_Data_Multiple_Years](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%202%20Data%20Wrangling/State_Data_Multiple_Years.xlsx)<br />
 [RPP Breakdown](https://github.com/NatalinSipes/Final-Project/blob/482c777f33fc0e21769e473fdacbdc0abda6629c/Phase%203%20Exploratory%20Analysis/RPP%20breakdown.xlsx)<br />
 [RPP All](https://github.com/NatalinSipes/Final-Project/blob/3857952d38ff53994d1898b8aa19e77cbd309bfb/Phase%203%20Exploratory%20Analysis/RPPall_py.xlsx)<br />
-[]()<br />
+[RPP Goods](https://github.com/NatalinSipes/Final-Project/blob/40e777b518a3978b5c995efccaed0dd692e65268/Phase%203%20Exploratory%20Analysis/RPPgoods_py.xlsx)<br />
 []()<br />
 []()<br />
 []()<br />
