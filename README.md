@@ -115,7 +115,7 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 # Phase 5: Data Visualization
 #### (Completed March 20, 2022)
 
-Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.  (Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
+Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.<br />
 
 #### Correlation Heat Maps 
 
