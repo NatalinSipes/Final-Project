@@ -140,7 +140,7 @@ Visualizations were created in Python, Tableau, and RStudio for analyses. Among 
 [Boxplot of Regional Utility Values, United States - SOUTHEAST :2008-2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/boxplotutilitySE.png)<br />
 #### Tableau and Infographics
 [Feeding America - Food Security Continuum](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Food%20Insecurity%20Continuum.png)<br />
-[The Barbeque Lab - Who is Hungry in America?](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Who-is-hungry-in-America-1-1536x960.jpeg)<br />
+[The Barbecue Lab - Who is Hungry in America?](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Who-is-hungry-in-America-1-1536x960.jpeg)<br />
 #### Unemployment 
 [2009 Descriptive Statistics on Unemployment Rates](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/09stats.png)<br />
 [2021 Descriptive Statistics on Unemployment Rates](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/21stats.png)<br />
