@@ -65,6 +65,8 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 #### Data Wrangling and Cleaning: (RPP’s, State Data all years, Unemployment, and others)
 [Regional Price Parities in R](https://github.com/NatalinSipes/Final-Project/blob/3857952d38ff53994d1898b8aa19e77cbd309bfb/Phase%202%20Data%20Wrangling/Notebooks%20and%20R.Scripts/FinalRPPs.R)<br />
 [State Unemployment in R](https://github.com/NatalinSipes/Final-Project/blob/40e777b518a3978b5c995efccaed0dd692e65268/Phase%202%20Data%20Wrangling/Notebooks%20and%20R.Scripts/stateunemployment.R)<br />
+[Food Insecurity in Jupyter Notebook - Pt 1](https://github.com/NatalinSipes/Final-Project/blob/9bbccd8aa1f79f39ff17405435114dfe59b58f79/Phase%202%20Data%20Wrangling/Notebooks%20and%20R.Scripts/FI_wrangling%20python1.ipynb)<br />
+[Food Insecurity in Jupyter Notebook - Pt 2](https://github.com/NatalinSipes/Final-Project/blob/9bbccd8aa1f79f39ff17405435114dfe59b58f79/Phase%202%20Data%20Wrangling/Notebooks%20and%20R.Scripts/FI_wranglingpython2.ipynb)<br />
 
 #### Included variables:
 -	Population percentage below poverty 
