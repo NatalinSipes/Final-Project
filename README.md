@@ -118,6 +118,8 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 
 Visualizations were created in Python, Tableau, and RStudio for analyses. Among the many visuals provided in this Github, several highlighted examples are listed below.  (Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
 
+#### Correlation Matrices 
+
 #### Feeding America, Mapping the Meal Gap: Cost Per Meal
 [Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
 [Cost Per Meal 2016-2018 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
@@ -138,6 +140,7 @@ Visualizations were created in Python, Tableau, and RStudio for analyses. Among 
 [Top 5 Most Expensive States for All Items: 2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/all20top5.png)<br />
 [Boxplot of Regional Housing Values, United States - WEST :2008-2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/boxplothousingW.png)<br />
 [Boxplot of Regional Utility Values, United States - SOUTHEAST :2008-2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/boxplotutilitySE.png)<br />
+[Regional Price Parities for States, 2019](https://github.com/NatalinSipes/Final-Project/blob/6e31f0f3725a8dfc52d85696b8fadd353793cac7/Phase%205%20Data%20Visualization/rpp2019chart.png)<br />
 #### Tableau and Infographics
 [Feeding America - Food Security Continuum](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Food%20Insecurity%20Continuum.png)<br />
 [The Barbecue Lab - Who is Hungry in America?](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Who-is-hungry-in-America-1-1536x960.jpeg)<br />
