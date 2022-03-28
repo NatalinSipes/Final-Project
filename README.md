@@ -118,6 +118,11 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.<br />
 
 #### Correlation Heat Maps 
+.[]()<br />
+.[]()<br />
+.[]()<br />
+.[]()<br />
+.[]()<br />
 
 #### Feeding America, Mapping the Meal Gap: Cost Per Meal
 [Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
