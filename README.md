@@ -116,32 +116,36 @@ Dependent t-tests and histograms were used to analyze the variables and make cor
 # Phase 5: Data Visualization
 #### (Completed March 20, 2022)
 
-Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
+Visualizations were created in Python, Tableau, and RStudio for analyses. Among the many visuals provided in this Github, several highlighted examples are listed below.  (Natalin created Heatmaps & Histograms(2010 & 2016), Ivette created in Tableau Line graphs for Cost Per Meal(2013-2015, 2016-2018, 2009-2019), Nicole created charts combining stats2010 & 2016-2020)<br />
 
 #### Feeding America, Mapping the Meal Gap: Cost Per Meal
 [Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
 [Cost Per Meal 2016-2018 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2016-2018CostPerMealinStates/Story1?publish=yes)<br />
 [Cost Per Meal 2009-2019 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/2009-2019CostPerMeal/CostPerMealin2009-2019?publish=yes)<br />
 #### Food Insecurity 
-[]()<br />
-[]()<br />
+[Trends in Prevalance Rates of Food Insecurity and Very Low Food Insecurity, U.S. Households: 1995-2020](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Food%20Insecurity%20Viz/Prevalence%20Rates_FI%20and%20ChildFI.png)<br />
+[Food Insecurity Bar Graph: 2010-2021](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Food%20Insecurity%20Viz/BarGraphFI.xlsx)<br />
 #### Inflation
-[]()<br />
-[]()<br />
+[Inflation in the Last 5 Years](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Inflation%20Viz/Inflation_5Y.png)<br />
+[Inflation in the Last 25 Years](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Inflation%20Viz/Inflation_25Y.png)<br />
 #### Poverty
-[]()<br />
-[]()<br />
+[Food Insecurity, Poverty, and Unemployment: 2000-2017](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Poverty%20Viz/FIexceedingpoverty.png)<br />
 #### Productivity
-[]()<br />
-[]()<br />
+[Farms, land in farms, and average acres per fram, 1850-2020](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Productivity%20Viz/AgricDecliningFarms.png)<br />
+[The Global Decline of Manufacturing: 1980-2019](https://github.com/NatalinSipes/Final-Project/blob/165979adfb3327d39d47ee9101959b966faf4ac0/Phase%205%20Data%20Visualization/Productivity%20Viz/GlobalDeclineofManuf.jpeg)<br />
 #### Regional Price Parities
-[]()<br />
-[]()<br />
+[Top 5 Most Expensive States for All Items: 2010](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/all10top5.png)<br />
+[Top 5 Most Expensive States for All Items: 2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/all20top5.png)<br />
+[Boxplot of Regional Housing Values, United States - WEST :2008-2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/boxplothousingW.png)<br />
+[Boxplot of Regional Utility Values, United States - SOUTHEAST :2008-2020](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/RPP%20Viz%201/boxplotutilitySE.png)<br />
 #### Tableau and Infographics
-[]()<br />
-[]()<br />
+[Feeding America - Food Security Continuum](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Food%20Insecurity%20Continuum.png)<br />
+[The Barbeque Lab - Who is Hungry in America?](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Tableau%20and%20Infographics/Who-is-hungry-in-America-1-1536x960.jpeg)<br />
 #### Unemployment 
-Visualizations were created in Python, Tableau, and RStudio for analyses.(Natalin created Heatmaps & Histograms(2010 & 2016)<br />
+[2009 Descriptive Statistics on Unemployment Rates](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/09stats.png)<br />
+[2021 Descriptive Statistics on Unemployment Rates](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/21stats.png)<br />
+[Unemployment in the Last 5 Years](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/Unemp_5Y.png)<br />
+[Unemployment in the Last 25 Years](https://github.com/NatalinSipes/Final-Project/blob/0e1087eae056aa8132f9985c100391334dc361aa/Phase%205%20Data%20Visualization/Unemployment%20Viz/Uemp_25Y.png)<br />
 
 
 # Phase 6: Presentation, Food Insecurity in the United States of America
