@@ -104,7 +104,7 @@ Exploratory analyses included visualizations and the standardization of audio fe
 # Phase 4: Data Analysis
 ### (Completed March 13, 2022)
 
-Dependent t-tests and histograms were used to analyze variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported the data into RStudio or Python for analysis. We also continued to work with datasets and notebooks analyzing regional price parities and state unemployment rates.
+Dependent t-tests and histograms were used to study variables and observe correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported the data into RStudio or Python for analysis. We also continued to work with datasets and notebooks analyzing regional price parities and state unemployment rates.
 
 #### Data Analysis in RStudio and Google Sheets
 
