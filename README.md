@@ -102,7 +102,7 @@ Exploratory analyses included visualizations and the standardization of audio fe
 [State Data Multiple Years Notebook](https://github.com/NatalinSipes/Final-Project/blob/c4e11597901bfcda71eadc4009e776a4a26ecb56/Phase%203%20Exploratory%20Analysis/Notebooks/State%20Unemp_2017-2018,%202020-2021%20and%20Ratio%20of%20Income%20Poverty_explanalysis.ipynb)<br />
 
 # Phase 4: Data Analysis
-#### (Completed March 13, 2022)
+### (Completed March 13, 2022)
 
 Dependent t-tests and histograms were used to analyze variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported the data into RStudio or Python for analysis. We also continued to work with datasets and notebooks analyzing regional price parities and state unemployment rates.
 
@@ -113,7 +113,7 @@ Dependent t-tests and histograms were used to analyze variables and make correla
 [Genearl Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/2c04725bc76242a0981180dd9ee61fe870e92019/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR2010-2019.R)<br />
 
 # Phase 5: Data Visualization
-#### (Completed March 20, 2022)
+### (Completed March 20, 2022)
 
 Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.<br />
 
@@ -156,7 +156,7 @@ Visualizations were created in Python, Tableau, and RStudio for analysis. Among 
 
 
 # Phase 6: Presentation, Food Insecurity in the United States of America
-#### (Presented March 25, 2022)
+### (Presented March 25, 2022)
 
 Project was presented via Zoom to Woz U faculty and students for internal review on March 25, 2022. <br /><br />
 
