@@ -69,13 +69,13 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 [Food Insecurity in Jupyter Notebook - Pt 2](https://github.com/NatalinSipes/Final-Project/blob/9bbccd8aa1f79f39ff17405435114dfe59b58f79/Phase%202%20Data%20Wrangling/Notebooks%20and%20R.Scripts/FI_wranglingpython2.ipynb)<br />
 
 #### Included variables:
--	Population percentage below poverty 
--	Cost per meal and regional price parities
--	State and regional
--	Food insecurity
+-	Percentage of Population in Poverty 
+-	Cost Per Meal and Regional Price Parities (Cost of Living Index)
+-	State and Regional Level
+-	Food Insecurity
+-	Child Food Insecurity
 -	Unemployment
 -	Inflation
--	Child food insecurity
 
 #### Dataset creation:
 [Annual Unemployment Rates by State](https://github.com/NatalinSipes/Final-Project/blob/ae66a9e979e548a0045e8c52887698a72c63e7db/Phase%202%20Data%20Wrangling/AnnualStateUnemployment.xlsx)<br />
@@ -90,7 +90,7 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 # Phase 3: Exploratory Analysis
 #### (Completed March 6, 2022)
 
-Exploratory analyses included visualization and standardization of audio feature variables, as well as correlation analysis and plotting.
+Exploratory analyses included visualizations and the standardization of audio feature variables, as well as the calculation and plotting of correlation analyses. 
 
 #### Exploratory Analysis in Jupyter Notebook/Python: 
 
@@ -104,13 +104,13 @@ Exploratory analyses included visualization and standardization of audio feature
 # Phase 4: Data Analysis
 #### (Completed March 13, 2022)
 
-Dependent t-tests and histograms were used to analyze the variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported our data into RStudio for analysis. We also continued to work with datasets and notebooks which analyzed regional price parities and state unemployment rates.
+Dependent t-tests and histograms were used to analyze variables and make correlations between them. The best use of our time was to create new spreadsheets in Microsoft Excel, RStudio, and Google Sheets. Once the spreadsheets had been created, we imported the data into RStudio or Python for analysis. We also continued to work with datasets and notebooks analyzing regional price parities and state unemployment rates.
 
 #### Data Analysis in RStudio and Google Sheets
 
-[Data Analysis in Google Sheets](https://github.com/NatalinSipes/Final-Project/blob/328ce7ea4ad843cdb557867b24095c40a74534d0/Phase%203%20Exploratory%20Analysis/AnnualStateUI_DepTtest.xlsx)<br />
-[Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/7acd5628f51bd80650a360efbfb7a370986a64f8/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR.R)<br />
-[Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/2c04725bc76242a0981180dd9ee61fe870e92019/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR2010-2019.R)<br />
+[Dependent t-Test on Unemployment Values](https://github.com/NatalinSipes/Final-Project/blob/328ce7ea4ad843cdb557867b24095c40a74534d0/Phase%203%20Exploratory%20Analysis/AnnualStateUI_DepTtest.xlsx)<br />
+[General Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/7acd5628f51bd80650a360efbfb7a370986a64f8/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR.R)<br />
+[Genearl Data Analysis in RStudio](https://github.com/NatalinSipes/Final-Project/blob/2c04725bc76242a0981180dd9ee61fe870e92019/Phase%204%20Data%20Analysis/Week4FPDataAnalysisinR2010-2019.R)<br />
 
 # Phase 5: Data Visualization
 #### (Completed March 20, 2022)
