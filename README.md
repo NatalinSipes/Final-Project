@@ -88,7 +88,7 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 []()<br />
 
 # Phase 3: Exploratory Analysis
-#### (Completed March 6, 2022)
+### (Completed March 6, 2022)
 
 Exploratory analyses included visualizations and the standardization of audio feature variables, as well as the calculation and plotting of correlation analyses. 
 
