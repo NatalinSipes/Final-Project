@@ -79,7 +79,6 @@ Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft E
 
 #### Dataset creation:
 [Annual Unemployment Rates by State](https://github.com/NatalinSipes/Final-Project/blob/ae66a9e979e548a0045e8c52887698a72c63e7db/Phase%202%20Data%20Wrangling/AnnualStateUnemployment.xlsx)<br />
-
 [State_Data_Multiple_Years](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%202%20Data%20Wrangling/State_Data_Multiple_Years.xlsx)<br />
 [RPP Breakdown](https://github.com/NatalinSipes/Final-Project/blob/482c777f33fc0e21769e473fdacbdc0abda6629c/Phase%203%20Exploratory%20Analysis/RPP%20breakdown.xlsx)<br />
 [RPP All](https://github.com/NatalinSipes/Final-Project/blob/3857952d38ff53994d1898b8aa19e77cbd309bfb/Phase%203%20Exploratory%20Analysis/RPPall_py.xlsx)<br />
