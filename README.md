@@ -118,11 +118,11 @@ Dependent t-tests and histograms were used to analyze variables and make correla
 Visualizations were created in Python, Tableau, and RStudio for analysis. Among the many visuals provided in this Github, several highlighted examples are listed below.<br />
 
 #### Correlation Heat Maps 
-.[2010 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/58242c167049e736892f41f6254cd3db44098fc1/Phase%205%20Data%20Visualization/2010FIinJN.ipynb)<br />
-.[2016 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/6dc82c43a4641af47102aa9c6456e5e5c3ca3f24/Phase%205%20Data%20Visualization/2016FIinJN.ipynb)<br />
-.[2017 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/c9b37b8907293257b55e7da3e02ee7aae090bd83/Phase%205%20Data%20Visualization/2017FIinJN.ipynb)<br />
-.[2018 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/f5eaeb099dd5ab3c1abfe0cfe804f679aa96e409/Phase%205%20Data%20Visualization/2018FIinJN.ipynb)<br />
-.[2019 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/05dc01fa529fc7639dea5ce8c427811002e3f750/Phase%205%20Data%20Visualization/2019FIinJN.ipynb)<br />
+[2010 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/58242c167049e736892f41f6254cd3db44098fc1/Phase%205%20Data%20Visualization/2010FIinJN.ipynb)<br />
+[2016 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/6dc82c43a4641af47102aa9c6456e5e5c3ca3f24/Phase%205%20Data%20Visualization/2016FIinJN.ipynb)<br />
+[2017 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/c9b37b8907293257b55e7da3e02ee7aae090bd83/Phase%205%20Data%20Visualization/2017FIinJN.ipynb)<br />
+[2018 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/f5eaeb099dd5ab3c1abfe0cfe804f679aa96e409/Phase%205%20Data%20Visualization/2018FIinJN.ipynb)<br />
+[2019 Food Insecurity](https://github.com/NatalinSipes/Final-Project/blob/05dc01fa529fc7639dea5ce8c427811002e3f750/Phase%205%20Data%20Visualization/2019FIinJN.ipynb)<br />
 
 #### Feeding America, Mapping the Meal Gap: Cost Per Meal
 [Cost Per Meal 2013-2015 Line Graph](https://public.tableau.com/app/profile/ivette8594/viz/CostPerMeal2013-2015/CostPerMeal2013-2015?publish=yes)<br />
