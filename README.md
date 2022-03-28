@@ -33,7 +33,7 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 [Percent of People by Ratio of Income to Poverty Level: 1970 to 2020](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%201%20Dataset%20Collection/Percent%20by%20Ratio%20of%20Income%20to%20Poverty,%201970-2020%20.xlsx)<br />
 
 #### U.S. Department of Agriculture - Economic Research Service (USDA-ERS)
-[Trends in prevalence rates of food insecurity and very low food security in U.S. households, 1995-2020](Trends in prevalence rates of food insecurity and very low food security in U.S. households, 1995-2020)<br />
+[Trends in prevalence rates of food insecurity and very low food security in U.S. households, 1995-2020](https://github.com/NatalinSipes/Final-Project/blob/2e0f817f8952fbf215300f3c93cf7ac16fff6470/Phase%201%20Dataset%20Collection/Trends%20in%20prevalence%20rates%20of%20food%20insecurity%20and%20very%20low%20food%20security_US%20households,%201995-2020.xlsx)<br />
 [Percentage of households reporting indicators of adult food insecurity, by food security status, 2020](https://github.com/NatalinSipes/Final-Project/blob/482c777f33fc0e21769e473fdacbdc0abda6629c/Phase%201%20Dataset%20Collection/Perc.%20of%20households%20reporting%20indicators%20of%20adult%20FI,%20by%20food%20security%20status,%202020.xlsx)<br />
 [Prevalence of very low food security by selected household characteristics, 2020](https://github.com/NatalinSipes/Final-Project/blob/64ff02c6ae434dd381451ebcdde28cc66261f524/Phase%201%20Dataset%20Collection/Prevalence%20of%20Very%20Low%20FI%20by%20selected%20household%20characteristics,%202020.xlsx)<br />
 
