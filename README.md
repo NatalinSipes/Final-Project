@@ -73,7 +73,7 @@ The datasets were collected and wrangled via Microsoft Excel, RStudio, and Pytho
 # Phase 2: Data Wrangling, Cleaning, and Recoding
 ### (Completed February 27, 2022)
 
-Data was cleaned and recoded for analysis using RStudio and Python.
+Data was cleaned and recoded for analysis using RStudio, Python, and Microsoft Excel.
 
 #### Data Wrangling and Cleaning: (RPP’s, State Data all years, Unemployment, and others)
 []()<br />
