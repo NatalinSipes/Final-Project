@@ -160,5 +160,6 @@ Visualizations were created in Python, Tableau, and RStudio for analysis. Among 
 
 Project was presented via Zoom to Woz U faculty and students for internal review on March 25, 2022. <br /><br />
 
-View the project presentation slides on Google Docs: <br />
+View the project presentation video and slides on Google Docs: <br />
+[Food Insecurity in the United States of America](https://drive.google.com/file/d/1Tbo5qxqF8dUbH8bSOp1eDbziW9pErfyN/view?usp=sharing) <br />
 [Food Insecurity in the United States of America](https://github.com/NatalinSipes/Final-Project/blob/917b8b1b3093fae250a59f186e793a11db7493c7/Phase%206%20Project%20Presentation/Food%20Insecurity%20Final%20Presentation%20.pdf)
